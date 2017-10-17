@@ -1,0 +1,50 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+  padding: 3px;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+.video-detail {
+  margin-bottom: 10px;
+}
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 1px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+.media-heading {
+  font-weight: 500;
+  font-size: .85rem;
+}
+
+.media-body .small {
+  font-size: .75rem;
+  color: #808080;
+}
+
+.title {
+  font-size: .9rem;
+  font-weight: 500;
+}
+
+.description {
+  margin-top: 5px;
+  font-size: .75rem;
+}
